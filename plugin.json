@@ -1,0 +1,11 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "ai-orchestrator",
+  "version": "0.1.0",
+  "description": "Antigravity CLI plugin that exposes the existing AI Orchestrator MCP server.",
+  "author": "AI Orchestrator contributors",
+  "compatibility": {
+    "antigravityCli": ">=2.0.0",
+    "mcp": "2024-11-05"
+  }
+}
